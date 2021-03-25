@@ -1132,7 +1132,8 @@ p {
 
 #pop-up-1:hover,
 #pop-up-2:hover,
-#pop-up-3:hover {
+#pop-up-3:hover,
+#pop-up-erasmus:hover {
   cursor: pointer;
 }
 
@@ -1656,7 +1657,7 @@ p.form-message.error.form-message.error {
   -ms-transition: all 0.5s ease-out;
   -o-transition: all 0.5s ease-out;
   transition: all 0.5s ease-out;
-  display: none;
+  display: inline-block;
 }
 .back-to-top:hover {
   color: #fff;

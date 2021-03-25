@@ -90,12 +90,12 @@
         '<section class= "popupsweet"' +
         '<ul>' +
         '<li>Cuatrovientos establece en su Plan Estratégico 18-21 la acción: 1.1.5 Analizar la RSE del CI' +
-        'Cuatrovientos <br></li>' +
+        ' Cuatrovientos <br></li>' +
         '<li>Diagnóstico con la metodología <b>INNOVARSE</b> del Gobierno de Navarra (2019), que' +
-        'concluye: <i>La Dimensión Ambiental es la dimensión que ofrece mayores márgenes de mejora' +
+        ' concluye: <i>La Dimensión Ambiental es la dimensión que ofrece mayores márgenes de mejora' +
         '(oportunidades)</i></li>' +
         '<li>Desde el equipo de Internacionalización se solicita y se concede liderar un proyecto Erasmus sobre' +
-        'La huella de Carbono, con el fin de desarrollar la dimensión ambiental del Centro.</li>' +
+        ' La huella de Carbono, con el fin de desarrollar la dimensión ambiental del Centro.</li>' +
         '<li>Dirección nombra un equipo responsable de la dinamización del proyecto, compuesto por ' +
         'el equipo de ejes: <b>internacionalización, compromiso e innovación + un asesor medioambiental externo.</b>' +
         '</li>' +
