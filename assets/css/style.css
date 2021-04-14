@@ -128,6 +128,7 @@ p {
 .popupsweet {
   text-align: left;
 }
+
 .popupsweet a {
   color: #000;
   font-weight: bold;
@@ -665,6 +666,7 @@ p {
 .navigation .navbar .navbar-nav .nav-item:first-child {
   margin-left: 0;
 }
+
 .navigation .navbar .navbar-nav .nav-item a {
   text-transform: uppercase;
   font-size: 16px;
@@ -1133,7 +1135,10 @@ p {
 #pop-up-1:hover,
 #pop-up-2:hover,
 #pop-up-3:hover,
-#pop-up-erasmus:hover {
+#pop-up-erasmus:hover,
+#pop-up-1-eng:hover,
+#pop-up-2-eng:hover,
+#pop-up-3-eng:hover {
   cursor: pointer;
 }
 
